@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap");
 
 :root {
-  --ls-font-family: "Urbanist", sans-serif;
+  --ls-font-family: "Roboto", sans-serif;
   --verse: 185, 100%;
   --warn: 46, 74%;
   --important: 338, 80%;
